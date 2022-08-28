@@ -1,0 +1,35 @@
+export const ApiData=[
+    {
+        Image:"Hotel1",
+        ApartmentName:"Hotel1",
+        Ratings:"5*",
+        Type:"Delux",
+        Location:"Bangalore",
+        NoOfGuest:"3",
+        SuperHost:"first"
+    },
+    {
+        ApartmentName:"Hotel2",
+        Ratings:"4*",
+        Type:"Delux",
+        Location:"Mumbai",
+        NoOfGuest:"5",
+        SuperHost:"first"
+    },
+    {
+        ApartmentName:"Hotel3",
+        Ratings:"4.5*",
+        Type:"Delux",
+        Location:"Newyark",
+        NoOfGuest:"3",
+        SuperHost:"first"
+    },
+    {
+        ApartmentName:"Hotel4",
+        Ratings:"4.3*",
+        Type:"Delux",
+        Location:"Rome",
+        NoOfGuest:"2",
+        SuperHost:"first"
+    }
+]
