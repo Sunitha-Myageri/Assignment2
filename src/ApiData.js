@@ -2,34 +2,41 @@ export const ApiData=[
     {
         Image:"Hotel1",
         ApartmentName:"Hotel1",
-        Ratings:"5*",
+        Ratings:"5",
         Type:"Delux",
         Location:"Bangalore",
         NoOfGuest:"3",
-        SuperHost:"first"
+        SuperHost:"first",
+        id:1        
     },
     {
+        Image:"Hotel2",
         ApartmentName:"Hotel2",
-        Ratings:"4*",
+        Ratings:"4",
         Type:"Delux",
         Location:"Mumbai",
         NoOfGuest:"5",
-        SuperHost:"first"
+        SuperHost:"first",
+        id:2
     },
     {
+        Image:"Hotel3",
         ApartmentName:"Hotel3",
-        Ratings:"4.5*",
+        Ratings:"3",
         Type:"Delux",
         Location:"Newyark",
         NoOfGuest:"3",
-        SuperHost:"first"
+        SuperHost:"first",
+        id:3,
     },
     {
+        Image:"Hotel4",
         ApartmentName:"Hotel4",
-        Ratings:"4.3*",
+        Ratings:"4",
         Type:"Delux",
         Location:"Rome",
         NoOfGuest:"2",
-        SuperHost:"first"
+        SuperHost:"first",
+        id:4
     }
 ]

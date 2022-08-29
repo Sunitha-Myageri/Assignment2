@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import ParentCompo from './FirstAssignment/ParentComp';
+import ApartmentComponent from './HotelComponent';
+import HotelComponent from './HotelComponent';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -11,7 +13,7 @@ root.render(
   
   
   <React.StrictMode>
-    <ParentCompo></ParentCompo>
+   <HotelComponent></HotelComponent>
   </React.StrictMode>
   
 );
